@@ -1,0 +1,2 @@
+/Users/Desktop/直播/KLIANSLiveDemo/Build/Products/Debug-iphonesimulator/KLIANSLiveDemo.app
+-
